@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @dragon-slayer27
+/src/backend/database.py      @dragon-slayer27
+/src/backend/routers/auth.py  @dragon-slayer27
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @dragon-slayer27
